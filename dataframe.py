@@ -17,6 +17,13 @@ value = df1.get(df1["Textiles"] == test)
 
 value.at[0,"CO2e"]
 
+def calculation(text_dict, textile_data):
+    n = number of elements in the dictionary
+    loop over all elements
+    cotton : 98
+        calculation
+        return calculated value
+    
 
 
 
